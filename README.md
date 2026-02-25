@@ -6,6 +6,6 @@ rhubarbs ARE NOT included
 
 play game here: https://froggleo.itch.io/rhubarb
 
-or download from releases
+or download from releases https://github.com/FroggLeo/rhubarb-platformer/releases
 
 made in gamemaker for hack club https://training.campfire.hackclub.com/
